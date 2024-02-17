@@ -3,7 +3,7 @@
 
 
 
-# file sim structure
+# sim extension file structure
 ## root key rule
 key=value \
 key name= any value 
