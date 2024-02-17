@@ -6,13 +6,13 @@
 # sim extension file structure
 ## root key rule
 key=value \
-key name= any value 
+key name = any value 
 
 *Ex1:* \
 hello= love mom \
-world= is our place for living 
+world = is our place for living 
 
-*Ex2:* \
+*Ex2:* one line with keys concatenation | \
 hello= love mom | world= is our place for living 
 
 *JSON Comparison:* \
@@ -29,7 +29,7 @@ container > \
 panel1= a smaller board \
 panel2= is bigger than spot 
 
-*Ex2:* \
+*Ex2:* one line with keys concatenation | \
 dog = is animal who stay close with us | container > panel1= a smaller board | panel2= is bigger than spot 
 
 *JSON Comparison:* \
