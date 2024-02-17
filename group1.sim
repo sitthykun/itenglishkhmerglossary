@@ -6,14 +6,14 @@ theme= ស្បៃរចនាបថ
 skin= ស្បៃរចនាបថ
 look and feel= ស្បៃរចនាបថ
 #
-desktop= ផ្ទាំង
+desktop= តុ ឬ ផ្ទាំងតាំង
 dash= ដាស
-dashboard= ដាសបដ
+dashboard= ផ្ទាំងដាស ឬ ដាសបដ
 page= ទំព័រ
 home= គេហ
 home page= គេហទំព័រ
 #
-component= 
-module= 
-modular=
-plugin= 
+component= គ្រឿងបង្គំុ របស់បង្គំុ
+module= មូឌុល
+modular= គ្រឿងផ្តំុ
+plugin= ផ្លាកអីន
