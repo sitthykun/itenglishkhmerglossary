@@ -3,7 +3,7 @@
 
 
 
-# file pobo structure
+# file sim structure
 ## root key rule
 key=value \
 key name= any value 
